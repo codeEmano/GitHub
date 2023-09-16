@@ -1,1 +1,1 @@
-This is a new git hub
+This is a new git hub.
