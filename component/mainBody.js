@@ -5,6 +5,11 @@ function body({heading,links,addedLink}) {
     console.log(`Added one more link...${addedLink}`)
     console.log(`This is an additional statement....`)
 }
+
+function add(a,b){
+    return (a+b);
+}
+
 body({heading:"Learning git",links:["link1","link2"],addedLink:"link3"});
 
 function subtract(a,b){
