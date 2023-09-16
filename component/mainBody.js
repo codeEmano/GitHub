@@ -5,7 +5,7 @@ function body({heading,links,addedLink}) {
     console.log(`Added one more link...${addedLink}`)
     console.log(`This is an additional statement....`)
 }
-function add(const a,const b){
+function add(a,b){
     return (a+b);
 }
 
