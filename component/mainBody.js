@@ -5,5 +5,8 @@ function body({heading,links,addedLink}) {
     console.log(`Added one more link...${addedLink}`)
     console.log(`This is an additional statement....`)
 }
+function add(const a,const b){
+    return (a+b);
+}
 
 body({heading:"Learning git",links:["link1","link2"],addedLink:"link3"});
